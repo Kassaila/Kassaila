@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--	👨🏻‍💻 I am front-end developer from Ukraine.
+-	👨🏻‍💻 I'm front-end developer from Ukraine.
 - 🌱 I like creating open-source tools that make a developers life easier & more efficient.
 - 🔭 I’m currently working on plugin [filtering data with inputs & url](https://github.com/Kassaila/filter-inputs-url)
 
