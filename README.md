@@ -1,4 +1,7 @@
 ### Hi there 👋
 
--	👨🏻‍💻 I'm front-end developer from Ukraine.
-- 🌱 I like creating open-source tools that make a developers life easier & more efficient.
+Frontend engineer building scalable systems.
+
+I focus on architecture, developer tooling, and modular front-end infrastructure — mostly in fintech and payment domains.
+
+Clean structure. Predictable behavior. No magic.
